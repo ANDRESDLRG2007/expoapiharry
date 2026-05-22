@@ -40,3 +40,11 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# scripts (postinstall fixes)
+scripts/
+
+# IDE & Documentation
+.claude/
+CLAUDE.md
+AGENTS.md
